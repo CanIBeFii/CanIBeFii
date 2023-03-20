@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**CanIBeFii/CanIBeFii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/your-github-username)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on [Minishell]
+- 🌱 I’m currently learning C, Java, Rust
+- 📫 How to reach me: [Linkedln] [Email]
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+
+## 📊 GitHub Stats
+
+![Your github stats](https://github-readme-stats.vercel.app/api?username=CanIBeFii&show_icons=true&theme=gotham)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CanIBeFii&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[Linkedln]:https://www.linkedin.com/in/filipe-vidal-mendes-ba982323a/
+[Email]:filipe250502@gmail.com
