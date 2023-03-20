@@ -16,5 +16,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CanIBeFii&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanIBeFii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [Linkedln]:https://www.linkedin.com/in/filipe-vidal-mendes-ba982323a/
 [Email]:filipe250502@gmail.com
