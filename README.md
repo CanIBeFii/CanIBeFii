@@ -1,4 +1,4 @@
-# Hi there, I'm Filipe 👋
+## Hi there, I'm Filipe 👋
 
 ![Profile views](https://gpvc.arturio.dev/CanIBeFii)
 
@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Your github stats](https://github-readme-stats.vercel.app/api?username=CanIBeFii&show_icons=true&theme=github_dark)
 
