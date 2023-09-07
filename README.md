@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning C, Java, Rust
 - 📫 How to reach me: **[Linkedln]**    **[Email]**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 ### 📊 GitHub Stats
 
