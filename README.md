@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/CanIBeFii)
 
-- 🔭 I’m currently working on **[cub3d]**
+- 🔭 I’m currently working on **[Cpp Module 02]**
 - 🌱 I’m currently learning C, Java, Rust
 - 📫 How to reach me: **[Linkedln]**    **[Email]**
 - 😄 Pronouns: He/Him
