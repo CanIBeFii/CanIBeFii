@@ -1,8 +1,6 @@
 ## Hi there, I'm Filipe 👋
 
-![Profile views](https://gpvc.arturio.dev/CanIBeFii)
-
-- 🔭 I’m currently working on **[Cpp Module 08]**
+- 🔭 I’m currently working on **[42_IRC]**
 - 🌱 I’m currently learning C, Java, Rust
 - 📫 How to reach me: **[Linkedln]**    **[Email]**
 - 😄 Pronouns: He/Him
@@ -13,6 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanIBeFii&count_private=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[Cpp Module 08]:https://github.com/CanIBeFii/CPP_Module_08
+[42_IRC]:https://github.com/micas2002/42_Irc
 [Linkedln]:https://www.linkedin.com/in/filipe-vidal-mendes-ba982323a/
 [Email]:filipe250502@gmail.com
