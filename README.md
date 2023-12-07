@@ -1,7 +1,7 @@
 ## Hi there, I'm Filipe 👋
 
 - 🔭 I’m currently working on **[42_IRC]**
-- 🌱 I’m currently learning C, Java, Rust
+- 🌱 I’m currently learning C/C++ and Rust
 - 📫 How to reach me: **[Linkedln]**    **[Email]**
 - 😄 Pronouns: He/Him
 
