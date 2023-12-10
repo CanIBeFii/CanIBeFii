@@ -9,7 +9,7 @@
 
 ![Your github stats](https://github-readme-stats.vercel.app/api?username=CanIBeFii&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanIBeFii&count_private=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanIBeFii&count_private=true&theme=github_dark&layout=compact&langs_count=8)
 
 [42_IRC]:https://github.com/micas2002/42_Irc
 [Linkedln]:https://www.linkedin.com/in/filipe-vidal-mendes-ba982323a/
