@@ -5,6 +5,8 @@
 - 📫 How to reach me: **[Linkedln]**    **[Email]**
 - 😄 Pronouns: He/Him
 
+---
+
 ### 📊 GitHub Stats
 
 ![Your github stats](https://github-readme-stats.vercel.app/api?username=CanIBeFii&show_icons=true&theme=github_dark)
