@@ -1,7 +1,7 @@
 ## Hi there, I'm Filipe 👋
 
-- 🔭 I’m currently working on **[42_IRC]**
-- 🌱 I’m currently learning C/C++ and Rust
+- 🔭 I’m currently working on **[Object Piscine]**
+- 🌱 I’m currently learning C/C++, Java and Rust
 - 📫 How to reach me: **[Linkedln]**    **[Email]**
 - 😄 Pronouns: He/Him
 
@@ -13,6 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanIBeFii&count_private=true&theme=github_dark&layout=compact&langs_count=8)
 
-[42_IRC]:https://github.com/micas2002/42_Irc
+[Object Piscine]:https://github.com/CanIBeFii/object_piscine
 [Linkedln]:https://www.linkedin.com/in/filipe-vidal-mendes-ba982323a/
 [Email]:filipe250502@gmail.com
